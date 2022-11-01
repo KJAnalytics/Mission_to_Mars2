@@ -6,6 +6,7 @@ The project scope includes scraping data from multiple websites to create a new 
 
 ##Results
 Snips of sections of webpage developed.
+* Mars Snip
 
-* Mars Data
+![image](https://user-images.githubusercontent.com/106294465/199155718-1aafcf4f-5f8b-4c2c-b48c-69d28f77d211.png)
 
